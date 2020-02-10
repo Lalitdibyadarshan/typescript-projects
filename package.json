@@ -1,0 +1,22 @@
+{
+  "name": "typescript-projects",
+  "version": "1.0.0",
+  "description": "this is a bundle of typescript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lalitdibyadarshan/typescript-projects.git"
+  },
+  "author": "Lalit kanta Dibyadarshan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lalitdibyadarshan/typescript-projects/issues"
+  },
+  "homepage": "https://github.com/Lalitdibyadarshan/typescript-projects#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
